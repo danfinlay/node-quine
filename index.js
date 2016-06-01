@@ -1,1 +1,1 @@
-q();function q() {console.log(`q();${q.toString()}`)}
+q();function q() {console.log(`q();${q}`)}
