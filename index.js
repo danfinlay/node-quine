@@ -1,1 +1,1 @@
-q();function q() {console.log(`q();${q}`)}
+q=()=>console.log(`q=${q};q()`);q()
